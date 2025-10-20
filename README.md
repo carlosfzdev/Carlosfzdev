@@ -1,6 +1,4 @@
 
-### Olá! Eu me chamo Carlos🖐️
-
 # 👨🏻‍💻 Carlos Souza
 
 **`Desenvolvedor FullStack Júnior`**
